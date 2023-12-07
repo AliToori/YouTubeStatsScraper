@@ -22,7 +22,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    api_key = "AIzaSyA4GceEtFh5KeqFLg77KKASinEw02BtLeg"
+    api_key = "lkalskdjlakjsldkjasldja"
     youtube = YoutubeDataApi(key=api_key)
     # channel_name = input("Please input youtube channel name")
     username = 'cobypersin'
